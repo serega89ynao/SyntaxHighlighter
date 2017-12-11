@@ -6,5 +6,5 @@ JavaScript, HTML, CSS, PHP
 Скачать папку "syntax-highlighter" в которой находятся две папки **"script"** и **"styles"**.
 
 **"script"**
-*shAutoloader.js*
-*shBrushAS3.js*
+<li>*shAutoloader.js</li>
+<li>*shBrushAS3.js</li>
